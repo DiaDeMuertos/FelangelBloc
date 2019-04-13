@@ -6,4 +6,4 @@
 
 ## Links
 
-- [Flutter BLoC Pattern Tutorial From Scratch](https://felangel.github.io/bloc/#/fluttercountertutorial)
+- [Flutter Counter Tutorial](https://felangel.github.io/bloc/#/fluttercountertutorial)
